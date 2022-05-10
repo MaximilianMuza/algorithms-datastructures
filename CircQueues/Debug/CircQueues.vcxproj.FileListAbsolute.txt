@@ -1,0 +1,2 @@
+C:\Users\maxim\source\repos\CircQueues\Debug\CircQueues.exe
+C:\Users\maxim\source\repos\CircQueues\Debug\CircQueues.pdb

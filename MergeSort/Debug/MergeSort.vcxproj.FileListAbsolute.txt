@@ -1,0 +1,2 @@
+C:\Users\maxim\source\repos\MergeSort\Debug\MergeSort.exe
+C:\Users\maxim\source\repos\MergeSort\Debug\MergeSort.pdb

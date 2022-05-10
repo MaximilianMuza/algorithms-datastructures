@@ -1,0 +1,2 @@
+C:\Users\maxim\source\repos\quickSelect\Debug\quickSelect.exe
+C:\Users\maxim\source\repos\quickSelect\Debug\quickSelect.pdb

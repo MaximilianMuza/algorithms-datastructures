@@ -1,0 +1,2 @@
+C:\Users\maxim\source\repos\Knight_Problem\Debug\Knight_Problem.exe
+C:\Users\maxim\source\repos\Knight_Problem\Debug\Knight_Problem.pdb

@@ -1,0 +1,19 @@
+﻿'Knight_Problem.exe' (Win32): Loaded 'C:\Users\maxim\source\repos\Knight_Problem\Debug\Knight_Problem.exe'. Symbols loaded.
+'Knight_Problem.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Symbols loaded.
+'Knight_Problem.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Symbols loaded.
+'Knight_Problem.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Symbols loaded.
+'Knight_Problem.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Symbols loaded.
+'Knight_Problem.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Symbols loaded.
+'Knight_Problem.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Symbols loaded.
+The thread 0x29a8 has exited with code 0 (0x0).
+'Knight_Problem.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Symbols loaded.
+'Knight_Problem.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Symbols loaded.
+'Knight_Problem.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Symbols loaded.
+'Knight_Problem.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Symbols loaded.
+'Knight_Problem.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Symbols loaded.
+'Knight_Problem.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Symbols loaded.
+'Knight_Problem.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Symbols loaded.
+The thread 0x1f20 has exited with code 0 (0x0).
+The thread 0x2e74 has exited with code 0 (0x0).
+The thread 0x31dc has exited with code 0 (0x0).
+The program '[10320] Knight_Problem.exe' has exited with code 0 (0x0).

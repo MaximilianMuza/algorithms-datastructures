@@ -1,0 +1,2 @@
+C:\Users\maxim\source\repos\Anagram\Debug\Anagram.exe
+C:\Users\maxim\source\repos\Anagram\Debug\Anagram.pdb

@@ -1,0 +1,2 @@
+C:\Users\maxim\source\repos\Next\Debug\Next.exe
+C:\Users\maxim\source\repos\Next\Debug\Next.pdb

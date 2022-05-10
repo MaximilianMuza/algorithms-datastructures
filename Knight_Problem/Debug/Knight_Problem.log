@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\maxim\source\repos\Knight_Problem\main.cpp(67,27): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\maxim\source\repos\Knight_Problem\main.cpp(81,25): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\maxim\source\repos\Knight_Problem\main.cpp(106): warning C4715: 'Tree::makeTreeLevelOrder': not all control paths return a value
+  Knight_Problem.vcxproj -> C:\Users\maxim\source\repos\Knight_Problem\Debug\Knight_Problem.exe
